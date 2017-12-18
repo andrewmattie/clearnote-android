@@ -2,4 +2,6 @@
     <string name="app_name">ClearNote</string>
     <string name="title">Title</string>
     <string name="body">Body</string>
+    <string name="newNoteActivityTitle">New note</string>
+    <string name="mainActivityTitle">My notes</string>
 </resources>
